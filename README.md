@@ -43,4 +43,3 @@ git push -u origin main
 `index.html` — разметка; `style.css` — оформление и печать; `app.js` — вопросы и игра; `assets/` — фотографии и favicon; `CREDITS.md` — источники; `.github/workflows/pages.yml` — публикация на Pages.
 
 Для изменения вопросов редактируйте массив `rounds` в `app.js`. Без серверной части, сбора биометрических данных, аналитики и регистрации.
-
