@@ -7,3 +7,15 @@
 - Условия использования: https://unsplash.com/license
 
 Фотографии принадлежат соответствующим авторам и не включены в лицензию на исходный код проекта. Иконка сайта — оригинальный SVG, созданный для проекта.
+
+## Фотоподсказки DAV SPIN
+
+Фотографии-ассоциации к вопросам, скачаны с Unsplash (https://unsplash.com/license):
+
+- Микросхемы — https://images.unsplash.com/photo-1518770660439-4636190af475
+- Гарнитура — https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac
+- Портрет для темы распознавания лица — https://images.unsplash.com/photo-1517841905240-472988babdf9
+- Текст и письменность — https://images.unsplash.com/photo-1455390582262-044cdead277a
+- Голографическая запись — Epzcaw, Holographic recording.jpg, Wikimedia Commons. Public domain. https://commons.wikimedia.org/wiki/File:Holographic_recording.jpg
+
+Фото гарнитуры используется как ассоциация к теме дополненной реальности. Голографическая запись показана на фотографии реального образца.
